@@ -48,5 +48,4 @@
   #
 
   ### :seedling: Currently working on :
-  - <del>**Sentiment Analysis** project using VADER and neural networks to classify movie reviews.</del>
-  - **Engineering Thesis** Zero-Knowledge web-based notepad
+  - ...
